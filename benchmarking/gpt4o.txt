@@ -1,0 +1,111 @@
+
+[Test 1]
+[REAL] 
+There were no MRI signs of structural changes in the brain..
+[GENERATED]
+MRI signs are within normal limits except for:
+- Dilated cisterna magna with retrocerebellar extension.
+- Cystic area in the left parotid gland.
+- Hypertrophied nasal turbinates and deviated nasal septum.
+
+Consultation with an otolaryngologist and possibly a maxillofacial surgeon is recommended.
+
+
+[Test 2]
+[REAL] 
+MRI signs of moderate vascular encephalopathy. Signs of left-sided mastoiditis..
+[GENERATED]
+MRI signs of small-sized nonspecific white matter hyperintensities, likely of vascular origin. Presence of an odontogenic cyst in the right maxillary sinus and mucosal hyperplasia in the maxillary and frontal sinuses, along with left mastoid bone liquid-filled areas. Deviation of the nasal septum to the right and nasal turbinate hypertrophy.
+
+Consultation with a neurologist is recommended for assessment of white matter changes.
+Consultation with an otolaryngologist is recommended for sinus and mastoid findings.
+
+
+[Test 3]
+[REAL] 
+MRI signs of focal lesions of the white matter of the brain (most likely of vascular origin). The pituitary gland tends to flatten..
+[GENERATED]
+MRI signs of vascular encephalopathy with multiple small ischemic foci in the subcortical and periventricular white matter. Moderate flattening of the pituitary gland without significant abnormality. Hyperplasia of the mucous membrane in the maxillary and frontal sinuses. Bullous transformation of the middle turbinate on the right.
+
+Consultation with a neurologist is recommended.
+Consultation with an otolaryngologist is recommended.
+
+
+[Test 4]
+[REAL] 
+MRI signs of moderate vascular encephalopathy. If clinical evidence is available, the findings may be consistent with impingement of the anterior inferior cerebellar artery and the left trigeminal nerve..
+[GENERATED]
+MRI signs of multiple small ischemic foci in the subcortical and periventricular white matter with associated frontotemporal atrophy. Close fit of the anterior inferior cerebellar artery to the left trigeminal nerve transition zone. Hyperplasia of the mucous membranes in several paranasal sinuses and S-shaped deviation of the nasal septum. Lack of visualization of the posterior cerebral arteries (PCA).
+
+Consultation with a neurologist is recommended.
+Consultation with an otolaryngologist is recommended.
+
+
+[Test 5]
+[REAL] 
+MRI signs of single non-specific foci of the white matter of the brain (most likely of vascular origin). A small cyst of the left half of the adenohypophysis (Rathke's pouch cyst?). Hypoplasia of the A1 segment of the right ACA..
+[GENERATED]
+MRI signs suggest the presence of single ischemic foci in the subcortical and periventricular white matter, slight asymmetry in lateral ventricles, a small cystic area in the left half of the adenohypophysis, and hyperplasia of the mucous membrane in the ethmoid labyrinth and both maxillary sinuses. Left-sided slight narrowing of the A1 segment of the anterior cerebral artery and non-visualization of the right posterior cerebral artery require further evaluation.
+
+Consultation with a neurologist and endocrinologist is recommended.
+
+
+[Test 6]
+[REAL] 
+MRI signs of single nonspecific foci in the subcortical white matter on the right (probably of vascular origin). Catarrhal changes in the mucous membranes of the cells of the ethmoid labyrinth and both maxillary sinuses..
+[GENERATED]
+MRI signs of minor nonspecific white matter hyperintensities on the right side. Mucosal hyperplasia in the ethmoid labyrinth and both maxillary sinuses, along with hypertrophied nasal turbinates and bullous transformation of the middle turbinates.
+
+Consultation with a neurologist is recommended.
+Consultation with an otolaryngologist is recommended.
+
+
+[Test 7]
+[REAL] 
+There were no MRI signs of structural changes in the brain. Sphenoiditis. Megacysterna magna (developmental variant)..
+[GENERATED]
+No significant abnormalities detected in the brain parenchyma, ventricles, cerebral vasculature, or orbit. Notable findings include mild hyperplasia of the mucous membrane in the main sinuses and moderately dilated perineural subarachnoid space of the orbits.
+
+Overall, the MRI findings are generally within normal limits.
+Consultation with an otolaryngologist may be considered for sinus evaluation.
+
+
+[Test 8]
+[REAL] 
+MRI signs of focal lesions of the white matter of the brain (most likely of vascular origin). Hypoplasia of the P1 segment of the PCA on the left. Catarrhal changes in the mucous membranes of both maxillary sinuses..
+[GENERATED]
+MRI signs of multiple small ischemic foci in the subcortical and periventricular white matter, consistent with vascular changes. Notable incidental findings include a narrowed P1 segment of the left posterior cerebral artery and hyperplasia of the mucous membrane in both maxillary sinuses. The Cavum vergae is also observed.
+
+Consultation with a neurologist and an otolaryngologist is recommended.
+
+
+[Test 9]
+[REAL] 
+MRI signs of focal lesions of the white matter of the brain (most likely of vascular origin). An area of pathological intensity in the parietal region on the left (ischemic origin)..
+[GENERATED]
+MRI signs of a small lesion in the left parietal region (supramarginal gyrus) suggesting possible gliosis or demyelination, along with multiple smaller foci of chronic microvascular ischemia in the subcortical and periventricular white matter. No abnormal contrast enhancement detected. Additionally, there is evidence of mucosal hyperplasia in the ethmoid labyrinth and maxillary sinuses, and a flattened pituitary gland.
+
+Consultation with a neurologist is recommended.
+Consultation with an otolaryngologist is recommended.
+
+
+[Test 10]
+[REAL] 
+MRI signs of an area of cystic degeneration of the anteromedial parts of the frontal lobes (consequences of hemorrhagic stroke in the area of the ACA). Moderate vascular encephalopathy. Saccular aneurysm of the A2 segment of the left ACA.
+
+
+MSCT angiography of extra- and intracranial arteries is recommended..
+[GENERATED]
+MRI signs of old hemorrhagic cystic degeneration in the anteromedial sections of the frontal lobes, mainly on the right, with associated hemosiderin deposition, gliosis, and atrophic changes. Multiple ischemic foci in the subcortical and periventricular white matter. Presence of a saccular aneurysm in the left ACA segment. Diffuse expansion of perivascular spaces (Robin-Virchow).
+
+Consultation with a neurologist and a neurosurgeon is recommended for further evaluation and management.
+
+
+[Test 11]
+[REAL] 
+CONCLUSION: MRI signs of the presence of structural changes in the brain were not identified..
+[GENERATED]
+MRI findings indicate normal brain anatomy and vasculature without any significant abnormalities. The nasal septum is deviated to the left. The posterior cerebral arteries (PCAs) are not visualized on both sides, which may require further evaluation.
+
+Overall, no acute pathology is identified. Consultation with an ENT specialist is recommended for the nasal septum deviation. Further evaluation of PCA is advisable if clinically indicated.
+

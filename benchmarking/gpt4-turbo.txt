@@ -1,0 +1,101 @@
+
+[Test 1]
+[REAL] 
+There were no MRI signs of structural changes in the brain..
+[GENERATED]
+MRI of the brain and intracranial vessels largely unremarkable with no significant abnormalities except for a dilated cisterna magna and the presence of a cyst in the left parotid gland. Nasal septum deviation to the left and hypertrophied nasal turbinates noted.
+
+Follow-up with an otolaryngologist is advised for assessment of nasal airway obstruction and evaluation of the parotid cyst.
+
+
+[Test 2]
+[REAL] 
+MRI signs of moderate vascular encephalopathy. Signs of left-sided mastoiditis..
+[GENERATED]
+The MRI demonstrates minimal nonspecific white matter changes, normal ventricular system and brain structures. Observations include a deviated nasal septum, hypertrophied nasal turbinates, an odontogenic cyst in the right maxillary sinus, and hyperplasia of the mucous membranes in maxillary and frontal sinuses. The angiographic study shows normal intracranial vessels.
+
+Consultation with an otolaryngologist is recommended for evaluation of the sinus and nasal findings.
+
+
+
+[Test 3]
+[REAL] 
+MRI signs of focal lesions of the white matter of the brain (most likely of vascular origin). The pituitary gland tends to flatten..
+[GENERATED]
+MRI findings suggest the presence of multiple subcortical and periventricular non-specific white matter hyperintensities, which may indicate microvascular changes. Normal pituitary and sellar region with some mild flattening of the pituitary gland. Mucosal hyperplasia in maxillary and frontal sinuses and bullous transformation of the middle turbinate on the right side suggest sinus inflammatory changes.
+
+Neurological and ENT consultations are recommended for further evaluation and management.
+
+
+[Test 4]
+[REAL] 
+MRI signs of moderate vascular encephalopathy. If clinical evidence is available, the findings may be consistent with impingement of the anterior inferior cerebellar artery and the left trigeminal nerve..
+[GENERATED]
+MRI findings indicative of small vessel disease with multiple subcorticoperiventricular hyperintensities suggesting chronic microangiopathy. Frontotemporal brain atrophy is also noted. No significant abnormalities in the basal ganglia, pituitary gland, and major intracranial arteries. Mild mucous membrane hyperplasia in the paranasal sinuses and a curved nasal septum are observed.
+
+Follow-up with a neurologist for potential management of microangiopathy and monitoring of brain atrophy. Consultation with an otolaryngologist for evaluation of sinus and nasal septum findings may be beneficial.
+
+
+[Test 5]
+[REAL] 
+MRI signs of single non-specific foci of the white matter of the brain (most likely of vascular origin). A small cyst of the left half of the adenohypophysis (Rathke's pouch cyst?). Hypoplasia of the A1 segment of the right ACA..
+[GENERATED]
+MRI findings suggest minor nonspecific white matter changes and asymmetry of the lateral ventricles. Additionally, a small cystic area is noted in the pituitary gland. No significant abnormalities in the major intracranial arteries on angiogram. Mucosal hyperplasia in paranasal sinuses and moderate hypertrophy of the nasal conchae are observed.
+
+Follow-up with a neurologist for the white matter changes and pituitary cyst may be advised. Consider an ENT consultation for sinus and nasal findings.
+
+
+[Test 6]
+[REAL] 
+MRI signs of single nonspecific foci in the subcortical white matter on the right (probably of vascular origin). Catarrhal changes in the mucous membranes of the cells of the ethmoid labyrinth and both maxillary sinuses..
+[GENERATED]
+Mild microangiopathic changes noted in the subcortical white matter on the right. No significant abnormality detected in the brain structure and intracranial vessels. Observations suggest mild mucosal hyperplasia in the paranasal sinuses and hypertrophy of the nasal turbinates with bullous transformation of the middle turbinates.
+
+Recommend follow-up with an ENT specialist for sinus considerations and routine neurologic follow-up as needed.
+
+
+[Test 7]
+[REAL] 
+There were no MRI signs of structural changes in the brain. Sphenoiditis. Megacysterna magna (developmental variant)..
+[GENERATED]
+No significant abnormalities noted in the brain MRI scan, with preserved morphology and signal characteristics throughout the cerebral cortex, basal ganglia, white matter, and cerebellum. Mild diffuse dilation in the perineural subarachnoid space of the orbits and dilated cisterna magna with retrocerbellar extension are observed, which may require clinical correlation. Normal vascular anatomy without any signs of narrowing or displacement. Hyperplasia of the mucous membrane in the main sinuses indicated. Overall, the findings are largely unremarkable with some minor exceptions that may need clinical attention depending on symptoms.
+
+
+
+[Test 8]
+[REAL] 
+MRI signs of focal lesions of the white matter of the brain (most likely of vascular origin). Hypoplasia of the P1 segment of the PCA on the left. Catarrhal changes in the mucous membranes of both maxillary sinuses..
+[GENERATED]
+MRI findings suggest multiple small subcorticoperiventricular white matter hyperintensities, likely indicating chronic microvascular ischemic changes. Normal intracranial vasculature without significant narrowing or displacement. There is hyperplasia of the mucous membrane in both maxillary sinuses.
+
+Consultation with a neurologist is recommended for further evaluation of the white matter changes.
+Consultation with an otolaryngologist for evaluation of sinus hyperplasia is advised.
+
+
+[Test 9]
+[REAL] 
+MRI signs of focal lesions of the white matter of the brain (most likely of vascular origin). An area of pathological intensity in the parietal region on the left (ischemic origin)..
+[GENERATED]
+The MRI findings indicate a left parietal lesion with characteristics suggestive of a glioma or metastasis, given its signal intensity pattern and lack of contrast enhancement. Additionally, there are multiple small hyperintense foci in the subcortical and periventricular white matter, possibly representing chronic microvascular ischemic changes. The pituitary gland is flattened but this could be a normal variation. Mucosal hyperplasia in the paranasal sinuses suggests sinusitis.
+
+A neurosurgical consultation is recommended for further evaluation and possible biopsy of the parietal lesion. Additionally, management of the sinusitis and further monitoring
+
+
+[Test 10]
+[REAL] 
+MRI signs of an area of cystic degeneration of the anteromedial parts of the frontal lobes (consequences of hemorrhagic stroke in the area of the ACA). Moderate vascular encephalopathy. Saccular aneurysm of the A2 segment of the left ACA.
+
+
+MSCT angiography of extra- and intracranial arteries is recommended..
+[GENERATED]
+The MRI findings suggest a large area of cystic degeneration with associated hemosiderin deposition in the anteromedial frontal lobes, predominantly on the right, accompanied by an aneurysm in the left anterior cerebral artery segment. Additionally, multiple ischemic-like foci in the white matter and mucous membrane hyperplasia within the ethmoid cells indicate chronic inflammatory changes.
+
+Neurological consultation for management of the frontal lobe lesion and vascular evaluation for the cerebral aneurysm is advised. An assessment by an otolaryngologist for the nasal and sinus findings is also recommended.
+
+
+[Test 11]
+[REAL] 
+CONCLUSION: MRI signs of the presence of structural changes in the brain were not identified..
+[GENERATED]
+The MRI scan shows no significant abnormalities in the brain structure, with normal ventricular size, symmetrical basal ganglia, preserved cerebellar and cerebral cortical widths, and normal pituitary gland characteristics. Additionally, MR angiography reveals normal appearance and function of major cerebral arteries. Findings also noted include a moderately diffusely dilated perineural subarachnoid space in the orbits and a deviated nasal septum. Overall, the brain structure and vascular system appear generally healthy. Consultation with an ENT specialist is recommended for the deviated nasal septum.
+

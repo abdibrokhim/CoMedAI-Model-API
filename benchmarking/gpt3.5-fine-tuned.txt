@@ -1,0 +1,82 @@
+
+[Test 1]
+[REAL] 
+There were no MRI signs of structural changes in the brain..
+[GENERATED]
+There were no MRI signs of structural changes in the brain. Cystic areas of the left parotid gland.
+
+
+[Test 2]
+[REAL] 
+MRI signs of moderate vascular encephalopathy. Signs of left-sided mastoiditis..
+[GENERATED]
+MRI signs of vascular encephalopathy with the presence of small foci and atrophy of the frontotemporal areas on both sides. Right-sided odontogenic cyst.
+
+
+[Test 3]
+[REAL] 
+MRI signs of focal lesions of the white matter of the brain (most likely of vascular origin). The pituitary gland tends to flatten..
+[GENERATED]
+MRI signs of pituitary gland without features.
+MRI signs of moderate vascular encephalopathy with the presence of multiple small ischemic foci.
+Consultation with a neurologist is recommended.
+
+
+[Test 4]
+[REAL] 
+MRI signs of moderate vascular encephalopathy. If clinical evidence is available, the findings may be consistent with impingement of the anterior inferior cerebellar artery and the left trigeminal nerve..
+[GENERATED]
+MRI signs of vascular encephalopathy with the presence of multiple foci and atrophy of the frontotemporal regions on both sides.
+
+
+[Test 5]
+[REAL] 
+MRI signs of single non-specific foci of the white matter of the brain (most likely of vascular origin). A small cyst of the left half of the adenohypophysis (Rathke's pouch cyst?). Hypoplasia of the A1 segment of the right ACA..
+[GENERATED]
+MRI signs of moderate vascular encephalopathy. Right-sided sinusitis.
+
+
+[Test 6]
+[REAL] 
+MRI signs of single nonspecific foci in the subcortical white matter on the right (probably of vascular origin). Catarrhal changes in the mucous membranes of the cells of the ethmoid labyrinth and both maxillary sinuses..
+[GENERATED]
+MRI signs of single nonspecific foci in the right subcortical white matter (probably of vascular origin).
+
+
+[Test 7]
+[REAL] 
+There were no MRI signs of structural changes in the brain. Sphenoiditis. Megacysterna magna (developmental variant)..
+[GENERATED]
+There were no MRI signs of structural changes in the brain.
+
+
+[Test 8]
+[REAL] 
+MRI signs of focal lesions of the white matter of the brain (most likely of vascular origin). Hypoplasia of the P1 segment of the PCA on the left. Catarrhal changes in the mucous membranes of both maxillary sinuses..
+[GENERATED]
+MRI signs of vascular encephalopathy with the presence of multiple ischemic foci and atrophy of the frontotemporal areas on both sides. Right-sided sinusitis. Left-sided sphenoiditis.
+
+
+[Test 9]
+[REAL] 
+MRI signs of focal lesions of the white matter of the brain (most likely of vascular origin). An area of pathological intensity in the parietal region on the left (ischemic origin)..
+[GENERATED]
+MRI signs of stroke of ischemic type in the region of the left supramarginal gyrus (probably in the middle cerebral artery region). Vascular encephalopathy with the presence of multiple small ischemic foci and atrophy of the frontotemporal regions on both sides.
+
+
+[Test 10]
+[REAL] 
+MRI signs of an area of cystic degeneration of the anteromedial parts of the frontal lobes (consequences of hemorrhagic stroke in the area of the ACA). Moderate vascular encephalopathy. Saccular aneurysm of the A2 segment of the left ACA.
+
+
+MSCT angiography of extra- and intracranial arteries is recommended..
+[GENERATED]
+MRI signs of intracerebral cyst in the frontotemporal region on both sides with signs of decompensation of cerebral hemodynamics on vascular encephalopathy. Aneurysm of the A2 segment of the left ACA. Catarrhal changes in the mucous membranes of the ethmoid labyrinth cells.
+
+
+[Test 11]
+[REAL] 
+CONCLUSION: MRI signs of the presence of structural changes in the brain were not identified..
+[GENERATED]
+There were no MRI signs of structural changes in the brain.
+
